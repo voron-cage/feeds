@@ -1,137 +1,137 @@
 <listings>
-<script/>
-<title>My Flight Feed</title>
-<link rel="self" href="http://www.example.com"/>
-<listing>
-<id>1</id>
-<origin_airport>BOS</origin_airport>
-<destination_airport>SFO</destination_airport>
-<origin_city>Boston </origin_city>
-<destination_city>San Francisco </destination_city>
-<url>https://ticket.pobeda.aero/websky/</url>
-<image>
-<url>http://example.com/some.image_1.jpg</url>
-<tag>city</tag>
-</image>
-<image>
-<url>http://example.com/some.image_2.jpg</url>
-<tag>food</tag>
-</image>
-<price>100.00 USD</price>
-<description>Best Flight</description>
-<applink property="ios_url" content="example-ios://travelapp"/>
-<applink property="ios_app_store_id" content="42"/>
-<applink property="android_url" content="example-android://travelapp"/>
-<applink property="android_package" content="com.travelapp"/>
-</listing>
-<listing>
-<id>2</id>
-<origin_airport>BOS</origin_airport>
-<destination_airport>SFO</destination_airport>
-<origin_city>Boston </origin_city>
-<destination_city>San Francisco </destination_city>
-<url>https://ticket.pobeda.aero/websky/</url>
-<image>
-<url>http://example.com/some.image_1.jpg</url>
-<tag>city</tag>
-</image>
-<image>
-<url>http://example.com/some.image_2.jpg</url>
-<tag>food</tag>
-</image>
-<price>100.00 USD</price>
-<description>Best Flight</description>
-<applink property="ios_url" content="example-ios://travelapp"/>
-<applink property="ios_app_store_id" content="42"/>
-<applink property="android_url" content="example-android://travelapp"/>
-<applink property="android_package" content="com.travelapp"/>
-</listing>
-<listing>
-<id>3</id>
-<origin_airport>BOS</origin_airport>
-<destination_airport>SFO</destination_airport>
-<origin_city>Boston </origin_city>
-<destination_city>San Francisco </destination_city>
-<url>https://ticket.pobeda.aero/websky/</url>
-<image>
-<url>http://example.com/some.image_1.jpg</url>
-<tag>city</tag>
-</image>
-<image>
-<url>http://example.com/some.image_2.jpg</url>
-<tag>food</tag>
-</image>
-<price>100.00 USD</price>
-<description>Best Flight</description>
-<applink property="ios_url" content="example-ios://travelapp"/>
-<applink property="ios_app_store_id" content="42"/>
-<applink property="android_url" content="example-android://travelapp"/>
-<applink property="android_package" content="com.travelapp"/>
-</listing>
-<listing>
-<id>4</id>
-<origin_airport>BOS</origin_airport>
-<destination_airport>SFO</destination_airport>
-<origin_city>Boston </origin_city>
-<destination_city>San Francisco </destination_city>
-<url>https://ticket.pobeda.aero/websky/</url>
-<image>
-<url>http://example.com/some.image_1.jpg</url>
-<tag>city</tag>
-</image>
-<image>
-<url>http://example.com/some.image_2.jpg</url>
-<tag>food</tag>
-</image>
-<price>100.00 USD</price>
-<description>Best Flight</description>
-<applink property="ios_url" content="example-ios://travelapp"/>
-<applink property="ios_app_store_id" content="42"/>
-<applink property="android_url" content="example-android://travelapp"/>
-<applink property="android_package" content="com.travelapp"/>
-</listing>
-<listing>
-<id>5</id>
-<origin_airport>BOS</origin_airport>
-<destination_airport>SFO</destination_airport>
-<origin_city>Boston </origin_city>
-<destination_city>San Francisco </destination_city>
-<url>https://ticket.pobeda.aero/websky/</url>
-<image>
-<url>http://example.com/some.image_1.jpg</url>
-<tag>city</tag>
-</image>
-<image>
-<url>http://example.com/some.image_2.jpg</url>
-<tag>food</tag>
-</image>
-<price>100.00 USD</price>
-<description>Best Flight</description>
-<applink property="ios_url" content="example-ios://travelapp"/>
-<applink property="ios_app_store_id" content="42"/>
-<applink property="android_url" content="example-android://travelapp"/>
-<applink property="android_package" content="com.travelapp"/>
-</listing>
-<listing>
-<id>6</id>
-<origin_airport>BOS</origin_airport>
-<destination_airport>SFO</destination_airport>
-<origin_city>Boston </origin_city>
-<destination_city>San Francisco </destination_city>
-<url>https://ticket.pobeda.aero/websky/</url>
-<image>
-<url>http://example.com/some.image_1.jpg</url>
-<tag>city</tag>
-</image>
-<image>
-<url>http://example.com/some.image_2.jpg</url>
-<tag>food</tag>
-</image>
-<price>100.00 USD</price>
-<description>Best Flight</description>
-<applink property="ios_url" content="example-ios://travelapp"/>
-<applink property="ios_app_store_id" content="42"/>
-<applink property="android_url" content="example-android://travelapp"/>
-<applink property="android_package" content="com.travelapp"/>
-</listing>
+    <script/>
+    <title>My Flight Feed</title>
+    <link rel="self" href="http://www.example.com"/>
+    <listing>
+        <id>1</id>
+        <origin_airport>BOS</origin_airport>
+        <destination_airport>SFO</destination_airport>
+        <origin_city>Boston</origin_city>
+        <destination_city>San Francisco</destination_city>
+        <url>https://ticket.pobeda.aero/websky/</url>
+        <image>
+            <url>http://example.com/some.image_1.jpg</url>
+            <tag>city</tag>
+        </image>
+        <image>
+            <url>http://example.com/some.image_2.jpg</url>
+            <tag>food</tag>
+        </image>
+        <price>100.00 USD</price>
+        <description>Best Flight</description>
+        <applink property="ios_url" content="example-ios://travelapp"/>
+        <applink property="ios_app_store_id" content="42"/>
+        <applink property="android_url" content="example-android://travelapp"/>
+        <applink property="android_package" content="com.travelapp"/>
+    </listing>
+    <listing>
+        <id>2</id>
+        <origin_airport>BOS</origin_airport>
+        <destination_airport>SFO</destination_airport>
+        <origin_city>Boston</origin_city>
+        <destination_city>San Francisco</destination_city>
+        <url>https://ticket.pobeda.aero/websky/</url>
+        <image>
+            <url>http://example.com/some.image_1.jpg</url>
+            <tag>city</tag>
+        </image>
+        <image>
+            <url>http://example.com/some.image_2.jpg</url>
+            <tag>food</tag>
+        </image>
+        <price>100.00 USD</price>
+        <description>Best Flight</description>
+        <applink property="ios_url" content="example-ios://travelapp"/>
+        <applink property="ios_app_store_id" content="42"/>
+        <applink property="android_url" content="example-android://travelapp"/>
+        <applink property="android_package" content="com.travelapp"/>
+    </listing>
+    <listing>
+        <id>3</id>
+        <origin_airport>BOS</origin_airport>
+        <destination_airport>SFO</destination_airport>
+        <origin_city>Boston</origin_city>
+        <destination_city>San Francisco</destination_city>
+        <url>https://ticket.pobeda.aero/websky/</url>
+        <image>
+            <url>http://example.com/some.image_1.jpg</url>
+            <tag>city</tag>
+        </image>
+        <image>
+            <url>http://example.com/some.image_2.jpg</url>
+            <tag>food</tag>
+        </image>
+        <price>100.00 USD</price>
+        <description>Best Flight</description>
+        <applink property="ios_url" content="example-ios://travelapp"/>
+        <applink property="ios_app_store_id" content="42"/>
+        <applink property="android_url" content="example-android://travelapp"/>
+        <applink property="android_package" content="com.travelapp"/>
+    </listing>
+    <listing>
+        <id>4</id>
+        <origin_airport>BOS</origin_airport>
+        <destination_airport>SFO</destination_airport>
+        <origin_city>Boston</origin_city>
+        <destination_city>San Francisco</destination_city>
+        <url>https://ticket.pobeda.aero/websky/</url>
+        <image>
+            <url>http://example.com/some.image_1.jpg</url>
+            <tag>city</tag>
+        </image>
+        <image>
+            <url>http://example.com/some.image_2.jpg</url>
+            <tag>food</tag>
+        </image>
+        <price>100.00 USD</price>
+        <description>Best Flight</description>
+        <applink property="ios_url" content="example-ios://travelapp"/>
+        <applink property="ios_app_store_id" content="42"/>
+        <applink property="android_url" content="example-android://travelapp"/>
+        <applink property="android_package" content="com.travelapp"/>
+    </listing>
+    <listing>
+        <id>5</id>
+        <origin_airport>BOS</origin_airport>
+        <destination_airport>SFO</destination_airport>
+        <origin_city>Boston</origin_city>
+        <destination_city>San Francisco</destination_city>
+        <url>https://ticket.pobeda.aero/websky/</url>
+        <image>
+            <url>http://example.com/some.image_1.jpg</url>
+            <tag>city</tag>
+        </image>
+        <image>
+            <url>http://example.com/some.image_2.jpg</url>
+            <tag>food</tag>
+        </image>
+        <price>100.00 USD</price>
+        <description>Best Flight</description>
+        <applink property="ios_url" content="example-ios://travelapp"/>
+        <applink property="ios_app_store_id" content="42"/>
+        <applink property="android_url" content="example-android://travelapp"/>
+        <applink property="android_package" content="com.travelapp"/>
+    </listing>
+    <listing>
+        <id>6</id>
+        <origin_airport>BOS</origin_airport>
+        <destination_airport>SFO</destination_airport>
+        <origin_city>Boston</origin_city>
+        <destination_city>San Francisco</destination_city>
+        <url>https://ticket.pobeda.aero/websky/</url>
+        <image>
+            <url>http://example.com/some.image_1.jpg</url>
+            <tag>city</tag>
+        </image>
+        <image>
+            <url>http://example.com/some.image_2.jpg</url>
+            <tag>food</tag>
+        </image>
+        <price>100.00 USD</price>
+        <description>Best Flight</description>
+        <applink property="ios_url" content="example-ios://travelapp"/>
+        <applink property="ios_app_store_id" content="42"/>
+        <applink property="android_url" content="example-android://travelapp"/>
+        <applink property="android_package" content="com.travelapp"/>
+    </listing>
 </listings>
