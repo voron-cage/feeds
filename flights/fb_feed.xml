@@ -19,9 +19,9 @@
         </image>
         <price>100.00 USD</price>
         <description>Best Flight</description>
-        <applink property="ios_url" content="example-ios://travelapp"/>
+        <applink property="ios_url" content="example://travelapp"/>
         <applink property="ios_app_store_id" content="42"/>
-        <applink property="android_url" content="example-android://travelapp"/>
+        <applink property="android_url" content="example://travelapp"/>
         <applink property="android_package" content="com.travelapp"/>
     </listing>
     <listing>
@@ -41,9 +41,9 @@
         </image>
         <price>100.00 USD</price>
         <description>Best Flight</description>
-        <applink property="ios_url" content="example-ios://travelapp"/>
+        <applink property="ios_url" content="example://travelapp"/>
         <applink property="ios_app_store_id" content="42"/>
-        <applink property="android_url" content="example-android://travelapp"/>
+        <applink property="android_url" content="example://travelapp"/>
         <applink property="android_package" content="com.travelapp"/>
     </listing>
     <listing>
@@ -63,9 +63,9 @@
         </image>
         <price>100.00 USD</price>
         <description>Best Flight</description>
-        <applink property="ios_url" content="example-ios://travelapp"/>
+        <applink property="ios_url" content="example://travelapp"/>
         <applink property="ios_app_store_id" content="42"/>
-        <applink property="android_url" content="example-android://travelapp"/>
+        <applink property="android_url" content="example://travelapp"/>
         <applink property="android_package" content="com.travelapp"/>
     </listing>
     <listing>
@@ -85,9 +85,9 @@
         </image>
         <price>100.00 USD</price>
         <description>Best Flight</description>
-        <applink property="ios_url" content="example-ios://travelapp"/>
+        <applink property="ios_url" content="example://travelapp"/>
         <applink property="ios_app_store_id" content="42"/>
-        <applink property="android_url" content="example-android://travelapp"/>
+        <applink property="android_url" content="example://travelapp"/>
         <applink property="android_package" content="com.travelapp"/>
     </listing>
     <listing>
@@ -107,9 +107,9 @@
         </image>
         <price>100.00 USD</price>
         <description>Best Flight</description>
-        <applink property="ios_url" content="example-ios://travelapp"/>
+        <applink property="ios_url" content="example://travelapp"/>
         <applink property="ios_app_store_id" content="42"/>
-        <applink property="android_url" content="example-android://travelapp"/>
+        <applink property="android_url" content="example://travelapp"/>
         <applink property="android_package" content="com.travelapp"/>
     </listing>
     <listing>
@@ -129,9 +129,9 @@
         </image>
         <price>100.00 USD</price>
         <description>Best Flight</description>
-        <applink property="ios_url" content="example-ios://travelapp"/>
+        <applink property="ios_url" content="example://travelapp"/>
         <applink property="ios_app_store_id" content="42"/>
-        <applink property="android_url" content="example-android://travelapp"/>
+        <applink property="android_url" content="example://travelapp"/>
         <applink property="android_package" content="com.travelapp"/>
     </listing>
 </listings>
