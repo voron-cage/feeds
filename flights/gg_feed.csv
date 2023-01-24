@@ -1,2 +1,2 @@
-"Destination ID","Origin ID","Destination name","Origin_name","Flight description","Image URL","Final URL","Flight price"
-ABA,MOW,Абакан,Москва,"Полет Москва-Абакан",https://github.com/voron-cage/feeds/raw/master/flights/sj-100.jpeg,https://ticket.pobeda.aero/websky/,10000 RUB
+ID,"Destination ID","Origin ID","Destination name","Origin_name","Flight description","Image URL","Final URL","Flight price"
+1,ABA,MOW,Абакан,Москва,"Полет Москва-Абакан",https://github.com/voron-cage/feeds/raw/master/flights/sj-100.jpeg,https://ticket.pobeda.aero/websky/,10000 RUB
