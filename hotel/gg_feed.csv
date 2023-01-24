@@ -1,2 +1,2 @@
-"Property ID","Property name","Final URL","Image URL","Description","Price","Sale price","Category","Address"
-12345,"Awesome Hotel",https://www.onetwotrip.com/,http://example.com/image_1.jpg,"Awesome hotel with air conditioning","10000 RUB","8888 RUB",Suite,"ул.Профсоюзная, 47"
+"Property ID","Property name","Final URL","Image URL","Description","Price","Sale price",Category,Address,Locality,Region,Country
+12345,"Awesome Hotel",https://www.onetwotrip.com/,http://example.com/image_1.jpg,"Awesome hotel with air conditioning","10000 RUB","8888 RUB",Suite,"ул.Профсоюзная, 47",Москва,Москва,Россия
