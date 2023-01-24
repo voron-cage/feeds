@@ -25,9 +25,9 @@
             <region>Москва</region>
             <country>Россия</country>
         </location>
-        <applink property="ios_url" content="example-ios://electronic"/>
+        <applink property="ios_url" content="example://electronic"/>
         <applink property="ios_app_store_id" content="42"/>
-        <applink property="android_url" content="example-android://electronic"/>
+        <applink property="android_url" content="example://electronic"/>
         <applink property="android_package" content="com.electronic"/>
     </listing>
     <listing>
@@ -53,9 +53,9 @@
             <region>Москва</region>
             <country>Россия</country>
         </location>
-        <applink property="ios_url" content="example-ios://electronic"/>
+        <applink property="ios_url" content="example://electronic"/>
         <applink property="ios_app_store_id" content="42"/>
-        <applink property="android_url" content="example-android://electronic"/>
+        <applink property="android_url" content="example://electronic"/>
         <applink property="android_package" content="com.electronic"/>
     </listing>
     <listing>
@@ -81,9 +81,9 @@
             <region>Москва</region>
             <country>Россия</country>
         </location>
-        <applink property="ios_url" content="example-ios://electronic"/>
+        <applink property="ios_url" content="example://electronic"/>
         <applink property="ios_app_store_id" content="42"/>
-        <applink property="android_url" content="example-android://electronic"/>
+        <applink property="android_url" content="example://electronic"/>
         <applink property="android_package" content="com.electronic"/>
     </listing>
     <listing>
@@ -109,9 +109,9 @@
             <region>Москва</region>
             <country>Россия</country>
         </location>
-        <applink property="ios_url" content="example-ios://electronic"/>
+        <applink property="ios_url" content="example://electronic"/>
         <applink property="ios_app_store_id" content="42"/>
-        <applink property="android_url" content="example-android://electronic"/>
+        <applink property="android_url" content="example://electronic"/>
         <applink property="android_package" content="com.electronic"/>
     </listing>
     <listing>
@@ -137,9 +137,9 @@
             <region>Москва</region>
             <country>Россия</country>
         </location>
-        <applink property="ios_url" content="example-ios://electronic"/>
+        <applink property="ios_url" content="example://electronic"/>
         <applink property="ios_app_store_id" content="42"/>
-        <applink property="android_url" content="example-android://electronic"/>
+        <applink property="android_url" content="example://electronic"/>
         <applink property="android_package" content="com.electronic"/>
     </listing>
     <listing>
@@ -165,9 +165,9 @@
             <region>Москва</region>
             <country>Россия</country>
         </location>
-        <applink property="ios_url" content="example-ios://electronic"/>
+        <applink property="ios_url" content="example://electronic"/>
         <applink property="ios_app_store_id" content="42"/>
-        <applink property="android_url" content="example-android://electronic"/>
+        <applink property="android_url" content="example://electronic"/>
         <applink property="android_package" content="com.electronic"/>
     </listing>
 </listings>
