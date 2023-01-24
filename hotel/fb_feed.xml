@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<listings>
+    <script/>
+    <title>My Hotel Feed</title>
+    <listing>
+        <hotel_id>1</hotel_id>
+        <name>The best hotel</name>
+        <description>A very nice hotel</description>
+        <brand>Premium_brand</brand>
+        <price>199.99 USD</price>
+        <phone>+61 2-96027455</phone>
+        <star_rating>4</star_rating>
+        <guest_rating>
+            <score>5.1</score>
+            <rating_system>tripAdvisor</rating_system>
+            <number_of_reviewers>123</number_of_reviewers>
+        </guest_rating>
+        <image>
+            <url>http://example.com/image_1.jpg</url>
+        </image>
+        <url>http://www.thebesthotel.com</url>
+        <location>
+            <address>Пролетарская д7</address>
+            <locality>Москва</locality>
+            <region>Москва</region>
+            <country>Россия</country>
+        </location>
+        <applink property="ios_url" content="example-ios://electronic"/>
+        <applink property="ios_app_store_id" content="42"/>
+        <applink property="android_url" content="example-android://electronic"/>
+        <applink property="android_package" content="com.electronic"/>
+    </listing>
+    <listing>
+        <hotel_id>2</hotel_id>
+        <name>The best hotel</name>
+        <description>A very nice hotel</description>
+        <brand>Premium_brand</brand>
+        <price>199.99 USD</price>
+        <phone>+61 2-96027455</phone>
+        <star_rating>4</star_rating>
+        <guest_rating>
+            <score>5.1</score>
+            <rating_system>tripAdvisor</rating_system>
+            <number_of_reviewers>123</number_of_reviewers>
+        </guest_rating>
+        <image>
+            <url>http://example.com/image_1.jpg</url>
+        </image>
+        <url>http://www.thebesthotel.com</url>
+        <location>
+            <address>Пролетарская д7</address>
+            <locality>Москва</locality>
+            <region>Москва</region>
+            <country>Россия</country>
+        </location>
+        <applink property="ios_url" content="example-ios://electronic"/>
+        <applink property="ios_app_store_id" content="42"/>
+        <applink property="android_url" content="example-android://electronic"/>
+        <applink property="android_package" content="com.electronic"/>
+    </listing>
+    <listing>
+        <hotel_id>3</hotel_id>
+        <name>The best hotel</name>
+        <description>A very nice hotel</description>
+        <brand>Premium_brand</brand>
+        <price>199.99 USD</price>
+        <phone>+61 2-96027455</phone>
+        <star_rating>4</star_rating>
+        <guest_rating>
+            <score>5.1</score>
+            <rating_system>tripAdvisor</rating_system>
+            <number_of_reviewers>123</number_of_reviewers>
+        </guest_rating>
+        <image>
+            <url>http://example.com/image_1.jpg</url>
+        </image>
+        <url>http://www.thebesthotel.com</url>
+        <location>
+            <address>Пролетарская д7</address>
+            <locality>Москва</locality>
+            <region>Москва</region>
+            <country>Россия</country>
+        </location>
+        <applink property="ios_url" content="example-ios://electronic"/>
+        <applink property="ios_app_store_id" content="42"/>
+        <applink property="android_url" content="example-android://electronic"/>
+        <applink property="android_package" content="com.electronic"/>
+    </listing>
+    <listing>
+        <hotel_id>4</hotel_id>
+        <name>The best hotel</name>
+        <description>A very nice hotel</description>
+        <brand>Premium_brand</brand>
+        <price>199.99 USD</price>
+        <phone>+61 2-96027455</phone>
+        <star_rating>4</star_rating>
+        <guest_rating>
+            <score>5.1</score>
+            <rating_system>tripAdvisor</rating_system>
+            <number_of_reviewers>123</number_of_reviewers>
+        </guest_rating>
+        <image>
+            <url>http://example.com/image_1.jpg</url>
+        </image>
+        <url>http://www.thebesthotel.com</url>
+        <location>
+            <address>Пролетарская д7</address>
+            <locality>Москва</locality>
+            <region>Москва</region>
+            <country>Россия</country>
+        </location>
+        <applink property="ios_url" content="example-ios://electronic"/>
+        <applink property="ios_app_store_id" content="42"/>
+        <applink property="android_url" content="example-android://electronic"/>
+        <applink property="android_package" content="com.electronic"/>
+    </listing>
+    <listing>
+        <hotel_id>5</hotel_id>
+        <name>The best hotel</name>
+        <description>A very nice hotel</description>
+        <brand>Premium_brand</brand>
+        <price>199.99 USD</price>
+        <phone>+61 2-96027455</phone>
+        <star_rating>4</star_rating>
+        <guest_rating>
+            <score>5.1</score>
+            <rating_system>tripAdvisor</rating_system>
+            <number_of_reviewers>123</number_of_reviewers>
+        </guest_rating>
+        <image>
+            <url>http://example.com/image_1.jpg</url>
+        </image>
+        <url>http://www.thebesthotel.com</url>
+        <location>
+            <address>Пролетарская д7</address>
+            <locality>Москва</locality>
+            <region>Москва</region>
+            <country>Россия</country>
+        </location>
+        <applink property="ios_url" content="example-ios://electronic"/>
+        <applink property="ios_app_store_id" content="42"/>
+        <applink property="android_url" content="example-android://electronic"/>
+        <applink property="android_package" content="com.electronic"/>
+    </listing>
+    <listing>
+        <hotel_id>6</hotel_id>
+        <name>The best hotel</name>
+        <description>A very nice hotel</description>
+        <brand>Premium_brand</brand>
+        <price>199.99 USD</price>
+        <phone>+61 2-96027455</phone>
+        <star_rating>4</star_rating>
+        <guest_rating>
+            <score>5.1</score>
+            <rating_system>tripAdvisor</rating_system>
+            <number_of_reviewers>123</number_of_reviewers>
+        </guest_rating>
+        <image>
+            <url>http://example.com/image_1.jpg</url>
+        </image>
+        <url>http://www.thebesthotel.com</url>
+        <location>
+            <address>Пролетарская д7</address>
+            <locality>Москва</locality>
+            <region>Москва</region>
+            <country>Россия</country>
+        </location>
+        <applink property="ios_url" content="example-ios://electronic"/>
+        <applink property="ios_app_store_id" content="42"/>
+        <applink property="android_url" content="example-android://electronic"/>
+        <applink property="android_package" content="com.electronic"/>
+    </listing>
+</listings>

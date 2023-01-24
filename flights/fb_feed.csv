@@ -1,2 +1,4 @@
 origin_city,destination_city,description,image.url,url,price,id,origin_airport,destination_airport,sale_price,custom_label_0,android_tracking_url,ios_tracking_url,android_package,ios_app_store_id,android_url,ios_url
 ABA,MOW,awesome description,https://github.com/voron-cage/feeds/raw/master/flights/sj-100.jpeg,https://ticket.pobeda.aero/websky/,100.00 USD,sale 1,ABA,SVO,89.00 USD,bb,,,com.travelapp,42,example://travelapp,example://travelapp
+ABA,MOW,awesome description,https://github.com/voron-cage/feeds/raw/master/flights/sj-100.jpeg,https://ticket.pobeda.aero/websky/,100.00 USD,difference deep-links,ABA,SVO,89.00 USD,bb,,,com.travelapp,42,example-android://travelapp,example://travelapp
+,MOW,awesome description,https://github.com/voron-cage/feeds/raw/master/flights/sj-100.jpeg,https://ticket.pobeda.aero/websky/,,not_all_required_fields_filled,ABA,SVO,89.00 USD,bb,,,com.travelapp,42,example://travelapp,example://travelapp
