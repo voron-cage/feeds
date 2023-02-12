@@ -7,8 +7,8 @@
         <id>1</id>
         <origin_airport>BOS</origin_airport>
         <destination_airport>SFO</destination_airport>
-        <origin_city>Boston</origin_city>
-        <destination_city>San Francisco</destination_city>
+        <origin_city>BOSTON</origin_city>
+        <destination_city>SAN FRANCISCO</destination_city>
         <url>https://ticket.pobeda.aero/websky/</url>
         <image>
             <url>https://github.com/voron-cage/feeds/raw/master/flights/tu-334.jpeg</url>
