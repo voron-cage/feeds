@@ -1,2 +1,2 @@
-hotel_id,name,url,image.url,location.address,description,price,sale_price,location.locality,location.country,location.region
-1,"Отель Крошка енот",https://www.onetwotrip.com/,http://example.com/image_1.jpg,"ул.Дружбы, 47","Кондиционер в гостинице","4200 RUB","4200 RUB",Москва,Россия,Москва
+hotel_id,name,url,image.url,location.address,description,price,sale_price,location.locality,location.country,location.region,Metro
+1,"Отель Крошка енот",https://www.onetwotrip.com/,http://example.com/image_1.jpg,"ул.Дружбы, 47","Кондиционер в гостинице","4200 RUB","4200 RUB",Москва,Россия,Москва,"Думская|Динамо"
