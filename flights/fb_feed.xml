@@ -10,7 +10,6 @@
         <origin_city>Boston</origin_city>
         <destination_city>San Francisco</destination_city>
         <url>https://ticket.pobeda.aero/websky/</url>
-        <category>Кемпинг</category>
         <image>
             <url>https://github.com/voron-cage/feeds/raw/master/flights/tu-334.jpeg</url>
             <tag>city</tag>
@@ -33,7 +32,6 @@
         <origin_city>Boston</origin_city>
         <destination_city>San Francisco</destination_city>
         <url>https://ticket.pobeda.aero/websky/</url>
-        <category>Бухало</category>
         <image>
             <url>https://github.com/voron-cage/feeds/raw/master/flights/tu-334.jpeg</url>
             <tag>city</tag>

@@ -10,6 +10,7 @@
         <price>199.99 USD</price>
         <phone>+61 2-96027455</phone>
         <star_rating>4</star_rating>
+        <category>Кемпинг</category>
         <guest_rating>
             <score>5.1</score>
             <rating_system>tripAdvisor</rating_system>
@@ -38,6 +39,7 @@
         <price>199.99 USD</price>
         <phone>+61 2-96027455</phone>
         <star_rating>4</star_rating>
+        <category>Бухало</category>
         <guest_rating>
             <score>5.1</score>
             <rating_system>tripAdvisor</rating_system>
