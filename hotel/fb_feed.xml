@@ -27,7 +27,8 @@
             <country>Россия</country>
         </location>
         <applink property="ios_url" content="example://electronic"/>
-        <applink property="ios_app_store_id" content="42"/>
+        <ios_tracking_url>https://lr.app.link/kUVn9QPWuob?%243p=a_mytarget</ios_tracking_url>
+	<applink property="ios_app_store_id" content="42"/>
         <applink property="android_url" content="example://electronic"/>
         <applink property="android_package" content="com.electronic"/>
     </listing>
