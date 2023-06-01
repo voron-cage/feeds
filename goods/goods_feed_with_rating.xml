@@ -1,0 +1,145 @@
+<yml_catalog date="2020-11-22T14:37:38+03:00">
+<shop>
+<name>BestSeller</name>
+<company>Tne Best inc.</company>
+<currencies>
+<currency id="RUR" rate="1"/>
+</currencies>
+<offers>
+<offer id="1" available="true" type="vendor.model">
+            <url>https://www.lamoda.ru/p/ba007ewlbus1/clothes-baon-gel-dlya-stirki/</url>
+            <price>10596</price>
+            <oldprice>11000</oldprice>
+            <min_price>5000</min_price>
+            <max_price>5000</max_price>
+            <currencyId>RUR</currencyId>
+            <categoryId>2</categoryId>
+            <picture>http://www.kurzweilai.net/images/Naam-Limits-of-Earth-Part1-001-earth-600x600.jpg</picture>
+            <description>Вот уже тридцать лет мои дни скучны и однообразны. Нет подруг, нет близких. И вдруг моя жизнь в одночасье изменилась. Судьба подарила мне подругу – Катю! Но... спустя день ее похитили. Неизвестные требовали документы, которые хранились у какого-то.</description>
+            <typePrefix>Кондиционер</typePrefix>
+            <vendor>LG</vendor>
+            <model>Ls-H0561AL</model>
+            <android_url>myapp://product?article=100001 </android_url>
+            <ios_url>myapp://product?article=100001 </ios_url>
+            <bundle_id>ru.myapp.myapp</bundle_id>
+            <ios_app_store_id>ios_app_store</ios_app_store_id>  
+            <rating>0</rating>
+        </offer>
+        <offer id="2" available="true" type="vendor.model">
+            <url>https://www.lamoda.ru/p/ba007ewlbus1/clothes-baon-gel-dlya-stirki/</url>
+            <price>30203</price>
+            <oldprice>11000</oldprice>
+            <min_price>5000</min_price>
+            <max_price>5000</max_price>
+            <currencyId>RUR</currencyId>
+            <description>Вот уже тридцать лет мои дни скучны и однообразны. Нет подруг, нет близких. И вдруг моя жизнь в одночасье изменилась. Судьба подарила мне подругу – Катю! Но... спустя день ее похитили. Неизвестные требовали документы, которые хранились у какого-то.</description>  
+            <categoryId>2</categoryId>
+            <picture>http://www.kurzweilai.net/images/Naam-Limits-of-Earth-Part1-001-earth-600x600.jpg</picture>
+            <typePrefix>Кондиционер</typePrefix>
+            <vendor>LG</vendor>
+            <model>Ls-H0893</model>
+            <android_url>myapp://product?article=100001 </android_url>
+            <ios_url>myapp://product?article=100001 </ios_url>
+            <bundle_id>ru.myapp.myapp</bundle_id>
+            <ios_app_store_id>0</ios_app_store_id>     
+           <rating>5.1</rating>
+        </offer>
+        <offer id="3" available="true" type="vendor.model">
+            <url>https://www.lamoda.ru/p/ba007ewlbus1/clothes-baon-gel-dlya-stirki/</url>
+            <price>30203</price>
+            <min_price>5000</min_price>
+            <max_price>5000</max_price>
+            <oldprice>11000</oldprice>
+            <currencyId>RUR</currencyId>
+            <categoryId>2</categoryId>
+            <description>Вот уже тридцать лет мои дни скучны и однообразны. Нет подруг, нет близких. И вдруг моя жизнь в одночасье изменилась. Судьба подарила мне подругу – Катю! Но... спустя день ее похитили. Неизвестные требовали документы, которые хранились у какого-то.</description>
+            <picture>http://www.kurzweilai.net/images/Naam-Limits-of-Earth-Part1-001-earth-600x600.jpg</picture>
+            <typePrefix>Кондиционер</typePrefix>
+            <vendor>LG</vendor>
+            <model>Ls-H0893</model>
+            <android_url>myapp://product?article=100001 </android_url>
+            <ios_url>myapp://product?article=100001 </ios_url>
+            <bundle_id>ru.myapp.myapp</bundle_id>
+            <ios_app_store_id>100500</ios_app_store_id> 
+           <rating>4.2</rating>
+        </offer>
+        <offer id="4" available="true" type="vendor.model">
+            <url>https://www.lamoda.ru/p/ba007ewlbus1/clothes-baon-gel-dlya-stirki/</url>
+            <price>30203</price>
+            <min_price>5000</min_price>
+            <max_price>5000</max_price>
+            <oldprice>11000</oldprice>
+            <currencyId>RUR</currencyId>
+            <categoryId>2</categoryId>
+            <description>Вот уже тридцать лет мои дни скучны и однообразны. Нет подруг, нет близких. И вдруг моя жизнь в одночасье изменилась. Судьба подарила мне подругу – Катю! Но... спустя день ее похитили. Неизвестные требовали документы, которые хранились у какого-то.</description>
+            <picture>http://www.kurzweilai.net/images/Naam-Limits-of-Earth-Part1-001-earth-600x600.jpg</picture>
+            <typePrefix>Кондиционер</typePrefix>
+            <vendor>LG</vendor>
+            <model>Ls-H0893</model>
+            <android_url>myapp://product?article=100001 </android_url>
+            <ios_url>myapp://product?article=100001 </ios_url>
+            <bundle_id>ru.myapp.myapp</bundle_id>
+            <ios_app_store_id>100500</ios_app_store_id>   
+           <rating>1.0</rating>
+        </offer>
+        <offer id="5" available="true" type="vendor.model">
+            <url>https://www.lamoda.ru/p/ba007ewlbus1/clothes-baon-gel-dlya-stirki/</url>
+            <price>30203</price>
+            <min_price>5000</min_price>
+            <max_price>5000</max_price>
+            <oldprice>11000</oldprice>
+            <currencyId>RUR</currencyId>
+            <description>Вот уже тридцать лет мои дни скучны и однообразны. Нет подруг, нет близких. И вдруг моя жизнь в одночасье изменилась. Судьба подарила мне подругу – Катю! Но... спустя день ее похитили. Неизвестные требовали документы, которые хранились у какого-то.</description>
+            <categoryId>2</categoryId>
+            <picture>http://www.kurzweilai.net/images/Naam-Limits-of-Earth-Part1-001-earth-600x600.jpg</picture>
+            <typePrefix>Кондиционер</typePrefix>
+            <vendor>LG</vendor>
+            <model>Ls-H0893</model>
+            <android_url>myapp://product?article=100001 </android_url>
+            <ios_url>myapp://product?article=100001 </ios_url>
+            <bundle_id>ru.myapp.myapp</bundle_id>
+            <ios_app_store_id>100500</ios_app_store_id>   
+           <rating>9.7</rating>
+        </offer>
+        <offer id="6" available="true" type="vendor.model">
+            <url>https://www.lamoda.ru/p/ba007ewlbus1/clothes-baon-gel-dlya-stirki/</url>
+            <price>30203</price>
+            <min_price>5000</min_price>
+            <max_price>5000</max_price>
+            <oldprice>11000</oldprice>
+            <currencyId>RUR</currencyId>
+            <description>Вот уже тридцать лет мои дни скучны и однообразны. Нет подруг, нет близких. И вдруг моя жизнь в одночасье изменилась. Судьба подарила мне подругу – Катю! Но... спустя день ее похитили. Неизвестные требовали документы, которые хранились у какого-то.</description>
+            <categoryId>2</categoryId>
+            <picture>http://www.kurzweilai.net/images/Naam-Limits-of-Earth-Part1-001-earth-600x600.jpg</picture>
+            <typePrefix>Кондиционер</typePrefix>
+            <vendor>LG</vendor>
+            <model>Ls-H0893</model>
+            <android_url>myapp://product?article=100001 </android_url>
+            <ios_url>myapp://product?article=100001 </ios_url>
+            <bundle_id>ru.myapp.myapp</bundle_id>
+            <ios_app_store_id>100500</ios_app_store_id>   
+           <rating>3.0</rating>
+        </offer>
+        <offer id="7" available="true" type="vendor.model">
+            <url>https://www.lamoda.ru/p/ba007ewlbus1/clothes-baon-gel-dlya-stirki/</url>
+            <price>30203</price>
+            <min_price>5000</min_price>
+            <max_price>5000</max_price>
+            <oldprice>11000</oldprice>
+            <currencyId>RUR</currencyId>
+            <description>Вот уже тридцать лет мои дни скучны и однообразны. Нет подруг, нет близких. И вдруг моя жизнь в одночасье изменилась. Судьба подарила мне подругу – Катю! Но... спустя день ее похитили. Неизвестные требовали документы, которые хранились у какого-то.</description>
+            <categoryId>2</categoryId>
+            <picture>http://www.kurzweilai.net/images/Naam-Limits-of-Earth-Part1-001-earth-600x600.jpg</picture>
+            <typePrefix>Кондиционер</typePrefix>
+            <vendor>LG</vendor>
+            <model>Ls-H0893</model>
+            <android_url>myapp://product?article=100001 </android_url>
+            <ios_url>myapp://product?article=100001 </ios_url>
+            <bundle_id>ru.myapp.myapp</bundle_id>
+            <ios_app_store_id>100500</ios_app_store_id>   
+           <rating>-1</rating>
+        </offer>
+     
+</offers>
+</shop>
+</yml_catalog>
