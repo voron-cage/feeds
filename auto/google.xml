@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<channel>
+    <title>Сатурн Chery</title>
+    <link rel="self" href="https://promo.saturn-chery.ru/"/>
+    <item>
+        <id>4</id>
+        <title>Пробег 0</title>
+        <description>TIGGO в рассрочку до 78 месяцев</description>
+        <brand>CHERY</brand>
+        <model>TIGGO 8 PRO</model>
+        <year>2023</year>
+        <state_of_vehicle>NEW</state_of_vehicle>
+        <image_link>https://sys.mrtruman.ru/uploads/feedsimage/06985aba680db6231dd9497fa4d541cf.png</image_link>
+        <link>https://promo.saturn-chery.ru/</link>
+        <price>2804900 RUB</price>
+        <location>
+            <address>г. Челябинск, Блюхера ул., 123</address>
+            <country>Россия</country>
+        </location>
+        <phone>+73512201343</phone>
+        <mileage>
+            <value>0</value>
+            <unit>KM</unit>
+        </mileage>
+    </item>
+    <item>
+        <id>1</id>
+        <title>Пробег float</title>
+        <description>TIGGO в рассрочку до 78 месяцев</description>
+        <brand>CHERY</brand>
+        <model>TIGGO 4 PRO</model>
+        <year>2023</year>
+        <state_of_vehicle>NEW</state_of_vehicle>
+        <image_link>https://sys.mrtruman.ru/uploads/feedsimage/f85d1e7e880dbb6d49230d4bca96e7b1.png</image_link>
+        <link>https://promo.saturn-chery.ru/</link>
+        <price>1749900 RUB</price>
+        <location>
+            <address>г. Челябинск, Блюхера ул., 123</address>
+            <country>Россия</country>
+        </location>
+        <phone>+73512201343</phone>
+        <mileage>
+            <value>234.5</value>
+            <unit>KM</unit>
+        </mileage>
+    </item>
+    <item>
+        <id>3</id>
+        <title>Пробег положительное значение</title>
+        <description>TIGGO в рассрочку до 78 месяцев</description>
+        <brand>CHERY</brand>
+        <model>TIGGO 8 NEW</model>
+        <year>2023</year>
+        <state_of_vehicle>NEW</state_of_vehicle>
+        <image_link>https://sys.mrtruman.ru/uploads/feedsimage/56f5287b5c34362b5bd1c2c837a1ad4f.png</image_link>
+        <link>https://promo.saturn-chery.ru/</link>
+        <price>2469900 RUB</price>
+        <location>
+            <address>г. Челябинск, Блюхера ул., 123</address>
+            <country>Россия</country>
+        </location>
+        <phone>+73512201343</phone>
+        <mileage>
+            <value>999999</value>
+            <unit>KM</unit>
+        </mileage>
+    </item>
+    <item>
+        <id>2</id>
+        <title>Пробега нет, а размерность есть</title>
+        <description>TIGGO в рассрочку до 78 месяцев</description>
+        <brand>CHERY</brand>
+        <model>TIGGO 7 PRO MAX</model>
+        <year>2023</year>
+        <state_of_vehicle>NEW</state_of_vehicle>
+        <image_link>https://sys.mrtruman.ru/uploads/feedsimage/5165ac1572bf6b22ab2c536c21b3e281.png</image_link>
+        <link>https://promo.saturn-chery.ru/</link>
+        <price>2324900 RUB</price>
+        <location>
+            <address>г. Челябинск, Блюхера ул., 123</address>
+            <country>Россия</country>
+        </location>
+        <phone>+73512201343</phone>
+        <mileage>
+            <unit>KM</unit>
+        </mileage>
+    </item>
+    <item>
+        <id>5</id>
+        <title>Пробег есть, а размерности нет</title>
+        <description>TIGGO в рассрочку до 78 месяцев</description>
+        <brand>CHERY</brand>
+        <model>TIGGO 8 PRO e+</model>
+        <year>2023</year>
+        <state_of_vehicle>NEW</state_of_vehicle>
+        <image_link>https://sys.mrtruman.ru/uploads/feedsimage/4ba3c2d4c2f79c9d51cbf0ccd87412d2.png</image_link>
+        <link>https://promo.saturn-chery.ru/</link>
+        <price>3969900 RUB</price>
+        <location>
+            <address>г. Челябинск, Блюхера ул., 123</address>
+            <country>Россия</country>
+        </location>
+        <phone>+73512201343</phone>
+        <mileage>
+            <value>999999</value>
+        </mileage>
+    </item>
+    <item>
+        <id>6</id>
+        <title>Пробег отрицательный</title>
+        <description>TIGGO в рассрочку до 78 месяцев</description>
+        <brand>CHERY</brand>
+        <model>TIGGO 8 PRO MAX</model>
+        <year>2023</year>
+        <state_of_vehicle>NEW</state_of_vehicle>
+        <image_link>https://sys.mrtruman.ru/uploads/feedsimage/ca04ba4006571f15e24479df460b82a5.png</image_link>
+        <link>https://promo.saturn-chery.ru/</link>
+        <price>3180900 RUB</price>
+        <location>
+            <address>г. Челябинск, Блюхера ул., 123</address>
+            <country>Россия</country>
+        </location>
+        <phone>+73512201343</phone>
+        <mileage>
+            <value>-9</value>
+            <unit>KM</unit>
+        </mileage>
+    </item>
+</channel>

@@ -1,0 +1,205 @@
+<?xml version="1.0"?>
+<data>
+    <cars>
+        <car>
+            <mark_id>Пробег 0</mark_id>
+            <folder_id>5 серия</folder_id>
+            <modification_id>523i Steptronic (204 л.с.)</modification_id>
+            <body_type>Седан</body_type>
+            <url>https://used.nezavisimost.su/cars/1/?utm_source=yandex-feed&amp;utm_medium=cpc&amp;utm_content={source}&amp;utm_campaign=feed_vk&amp;utm_content=1</url>
+            <wheel>Левый</wheel>
+            <color>Черный</color>
+            <availability>в наличии</availability>
+            <custom>растаможен</custom>
+            <state>отличное</state>
+            <owners_number>Два владельца</owners_number>
+            <year>2010</year>
+            <registry_year>2010</registry_year>
+            <price>939000</price>
+            <currency>RUR</currency>
+            <vin>X4XFP1543BC484483</vin>
+            <run>0</run>
+            <unique_id>1</unique_id>
+            <images>
+                <image>https://used.nezavisimost.su/static/cars/1/1.jpg</image>
+                <image>https://used.nezavisimost.su/static/cars/1/2.jpg</image>
+                <image>https://used.nezavisimost.su/static/cars/1/3.jpg</image>
+                <image>https://used.nezavisimost.su/static/cars/1/4.jpg</image>
+                <image>https://used.nezavisimost.su/static/cars/1/5.jpg</image>
+                <image>https://used.nezavisimost.su/static/cars/1/6.jpg</image>
+                <image>https://used.nezavisimost.su/static/cars/1/7.jpg</image>
+                <image>https://used.nezavisimost.su/static/cars/1/8.jpg</image>
+                <image>https://used.nezavisimost.su/static/cars/1/9.jpg</image>
+                <image>https://used.nezavisimost.su/static/cars/1/10.jpg</image>
+                <image>https://used.nezavisimost.su/static/cars/1/11.jpg</image>
+            </images>
+            <contact_info>
+                <contact>
+                    <name>Независимость</name>
+                    <phone>+7 (495) 021-31-77</phone>
+                    <time>9:00 - 20:00, без выходных</time>
+                </contact>
+            </contact_info>
+            <pts>оригинал</pts>
+        </car>
+        <car>
+            <mark_id>Пробег 0.0</mark_id>
+            <folder_id>X60</folder_id>
+            <modification_id>1.8 MT (128 л.с.)</modification_id>
+            <body_type>Внедорожник</body_type>
+            <url>https://used.nezavisimost.su/cars/4/?utm_source=yandex-feed&amp;utm_medium=cpc&amp;utm_content={source}&amp;utm_campaign=feed_vk&amp;utm_content=4</url>
+            <wheel>Левый</wheel>
+            <color>Серый</color>
+            <availability>в наличии</availability>
+            <custom>растаможен</custom>
+            <state>отличное</state>
+            <owners_number>Один владелец</owners_number>
+            <year>2013</year>
+            <registry_year>2013</registry_year>
+            <price>379000</price>
+            <currency>RUR</currency>
+            <vin>X9W215800D0008521</vin>
+            <run>0.0</run>
+            <unique_id>4</unique_id>
+            <images>
+                <image>https://used.nezavisimost.su/static/cars/4/1.jpg</image>
+                <image>https://used.nezavisimost.su/static/cars/4/2.jpg</image>
+                <image>https://used.nezavisimost.su/static/cars/4/3.jpg</image>
+                <image>https://used.nezavisimost.su/static/cars/4/8.jpg</image>
+                <image>https://used.nezavisimost.su/static/cars/4/7.jpg</image>
+                <image>https://used.nezavisimost.su/static/cars/4/6.jpg</image>
+                <image>https://used.nezavisimost.su/static/cars/4/5.jpg</image>
+                <image>https://used.nezavisimost.su/static/cars/4/4.jpg</image>
+                <image>https://used.nezavisimost.su/static/cars/4/11.jpg</image>
+                <image>https://used.nezavisimost.su/static/cars/4/10.jpg</image>
+                <image>https://used.nezavisimost.su/static/cars/4/12.jpg</image>
+                <image>https://used.nezavisimost.su/static/cars/4/14.jpg</image>
+                <image>https://used.nezavisimost.su/static/cars/4/15.jpg</image>
+            </images>
+            <contact_info>
+                <contact>
+                    <name>Независимость</name>
+                    <phone>+7 (495) 021-31-77</phone>
+                    <time>9:00 - 20:00, без выходных</time>
+                </contact>
+            </contact_info>
+            <pts>оригинал</pts>
+        </car>
+        <car>
+            <mark_id>Пробег положительное число</mark_id>
+            <folder_id>Mondeo</folder_id>
+            <modification_id>2.5 AT (149 л.с.)</modification_id>
+            <body_type>Седан</body_type>
+            <url>https://used.nezavisimost.su/cars/5/?utm_source=yandex-feed&amp;utm_medium=cpc&amp;utm_content={source}&amp;utm_campaign=feed_vk&amp;utm_content=5</url>
+            <wheel>Левый</wheel>
+            <color>Белый</color>
+            <availability>в наличии</availability>
+            <custom>растаможен</custom>
+            <state>отличное</state>
+            <owners_number>Один владелец</owners_number>
+            <year>2019</year>
+            <registry_year>2019</registry_year>
+            <price>1130000</price>
+            <currency>RUR</currency>
+            <vin>Z6FDXXEECDKE65649</vin>
+            <run>999999</run>
+            <unique_id>5</unique_id>
+            <images>
+                <image>https://used.nezavisimost.su/static/cars/5/1.jpg</image>
+                <image>https://used.nezavisimost.su/static/cars/5/2.jpg</image>
+                <image>https://used.nezavisimost.su/static/cars/5/3.jpg</image>
+                <image>https://used.nezavisimost.su/static/cars/5/4.jpg</image>
+                <image>https://used.nezavisimost.su/static/cars/5/5.jpg</image>
+                <image>https://used.nezavisimost.su/static/cars/5/6.jpg</image>
+            </images>
+            <contact_info>
+                <contact>
+                    <name>Независимость</name>
+                    <phone>+7 (495) 021-31-77</phone>
+                    <time>9:00 - 20:00, без выходных</time>
+                </contact>
+            </contact_info>
+            <pts>оригинал</pts>
+        </car>
+        <car>
+            <mark_id>Пробег отрицательный</mark_id>
+            <folder_id>Juke</folder_id>
+            <modification_id>1.6 CVT (117 л.с.)</modification_id>
+            <body_type>Внедорожник</body_type>
+            <url>https://used.nezavisimost.su/cars/6/?utm_source=yandex-feed&amp;utm_medium=cpc&amp;utm_content={source}&amp;utm_campaign=feed_vk&amp;utm_content=6</url>
+            <wheel>Левый</wheel>
+            <color>Белый</color>
+            <availability>в наличии</availability>
+            <custom>растаможен</custom>
+            <state>отличное</state>
+            <owners_number>Один владелец</owners_number>
+            <year>2013</year>
+            <registry_year>2013</registry_year>
+            <price>598000</price>
+            <currency>RUR</currency>
+            <vin>SJNFBAF15U6224106</vin>
+            <run>-2</run>
+            <unique_id>6</unique_id>
+            <images>
+                <image>https://used.nezavisimost.su/static/cars/6/1.jpg</image>
+                <image>https://used.nezavisimost.su/static/cars/6/2.jpg</image>
+                <image>https://used.nezavisimost.su/static/cars/6/3.jpg</image>
+                <image>https://used.nezavisimost.su/static/cars/6/4.jpg</image>
+                <image>https://used.nezavisimost.su/static/cars/6/5.jpg</image>
+                <image>https://used.nezavisimost.su/static/cars/6/6.jpg</image>
+                <image>https://used.nezavisimost.su/static/cars/6/7.jpg</image>
+                <image>https://used.nezavisimost.su/static/cars/6/8.jpg</image>
+                <image>https://used.nezavisimost.su/static/cars/6/9.jpg</image>
+            </images>
+            <contact_info>
+                <contact>
+                    <name>Независимость</name>
+                    <phone>+7 (495) 021-31-77</phone>
+                    <time>9:00 - 20:00, без выходных</time>
+                </contact>
+            </contact_info>
+            <pts>оригинал</pts>
+        </car>
+        <car>
+            <mark_id>Пробег из букв</mark_id>
+            <folder_id>Teana</folder_id>
+            <modification_id>2.5 CVT (185 л.с.)</modification_id>
+            <body_type>Седан</body_type>
+            <url>https://used.nezavisimost.su/cars/9/?utm_source=yandex-feed&amp;utm_medium=cpc&amp;utm_content={source}&amp;utm_campaign=feed_vk&amp;utm_content=9</url>
+            <wheel>Левый</wheel>
+            <color>Черный</color>
+            <availability>в наличии</availability>
+            <custom>растаможен</custom>
+            <state>отличное</state>
+            <owners_number>Два владельца</owners_number>
+            <year>2013</year>
+            <registry_year>2013</registry_year>
+            <price>669000</price>
+            <currency>RUR</currency>
+            <vin>Z8NBBUJ32DS050014</vin>
+            <run>Пять тысяч киллометров</run>
+            <unique_id>9</unique_id>
+            <images>
+                <image>https://used.nezavisimost.su/static/cars/9/1.jpg</image>
+                <image>https://used.nezavisimost.su/static/cars/9/2.jpg</image>
+                <image>https://used.nezavisimost.su/static/cars/9/3.jpg</image>
+                <image>https://used.nezavisimost.su/static/cars/9/4.jpg</image>
+                <image>https://used.nezavisimost.su/static/cars/9/5.jpg</image>
+                <image>https://used.nezavisimost.su/static/cars/9/6.jpg</image>
+                <image>https://used.nezavisimost.su/static/cars/9/7.jpg</image>
+                <image>https://used.nezavisimost.su/static/cars/9/8.jpg</image>
+                <image>https://used.nezavisimost.su/static/cars/9/9.jpg</image>
+                <image>https://used.nezavisimost.su/static/cars/9/10.jpg</image>
+                <image>https://used.nezavisimost.su/static/cars/9/12.jpg</image>
+            </images>
+            <contact_info>
+                <contact>
+                    <name>Независимость</name>
+                    <phone>+7 (495) 021-31-77</phone>
+                    <time>9:00 - 20:00, без выходных</time>
+                </contact>
+            </contact_info>
+            <pts>оригинал</pts>
+        </car>
+    </cars>
+</data>
