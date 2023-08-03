@@ -3,7 +3,7 @@
     <cars>
         <car>
             <mark_id>Пробег 0</mark_id>
-            <folder_id>5 серия</folder_id>
+            <folder_id>XC 60</folder_id>
             <modification_id>523i Steptronic (204 л.с.)</modification_id>
             <body_type>Седан</body_type>
             <url>https://used.nezavisimost.su/cars/1/?utm_source=yandex-feed&amp;utm_medium=cpc&amp;utm_content={source}&amp;utm_campaign=feed_vk&amp;utm_content=1</url>
@@ -44,7 +44,7 @@
         </car>
         <car>
             <mark_id>Пробег 0.0</mark_id>
-            <folder_id>x60</folder_id>
+            <folder_id>X60</folder_id>
             <modification_id>1.8 MT (128 л.с.)</modification_id>
             <body_type>Внедорожник</body_type>
             <url>https://used.nezavisimost.su/cars/4/?utm_source=yandex-feed&amp;utm_medium=cpc&amp;utm_content={source}&amp;utm_campaign=feed_vk&amp;utm_content=4</url>
@@ -87,7 +87,7 @@
         </car>
         <car>
             <mark_id>Пробег положительное число</mark_id>
-            <folder_id>Mondeo</folder_id>
+            <folder_id>LADA</folder_id>
             <modification_id>2.5 AT (149 л.с.)</modification_id>
             <body_type>Седан</body_type>
             <url>https://used.nezavisimost.su/cars/5/?utm_source=yandex-feed&amp;utm_medium=cpc&amp;utm_content={source}&amp;utm_campaign=feed_vk&amp;utm_content=5</url>
@@ -123,7 +123,7 @@
         </car>
         <car>
             <mark_id>Пробег отрицательный</mark_id>
-            <folder_id>Juke</folder_id>
+            <folder_id>4548</folder_id>
             <modification_id>1.6 CVT (117 л.с.)</modification_id>
             <body_type>Внедорожник</body_type>
             <url>https://used.nezavisimost.su/cars/6/?utm_source=yandex-feed&amp;utm_medium=cpc&amp;utm_content={source}&amp;utm_campaign=feed_vk&amp;utm_content=6</url>
