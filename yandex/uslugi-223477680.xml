@@ -1,0 +1,77 @@
+<yml_catalog date="2023-11-17 17:54">
+    <shop>
+        <currencies>
+            <currency rate="1" id="RUB"></currency>
+        </currencies>
+        <categories></categories>
+        <offers>
+            <offer available="true" id="7526888">
+                <name>iPhone 15</name>
+                <url>https://vk.com/uslugi-223477680?w=product-223477680_7526888</url>
+                <price_type>0</price_type>
+                <price_unit>0</price_unit>
+                <price>700</price>
+                <currencyId>RUB</currencyId>
+                <vkCategory>2055</vkCategory>
+                <weight>1.0</weight>
+                <dimensions>20.0/20.0/20.0</dimensions>
+                <ae_stock>5</ae_stock>
+                <description><![CDATA[RF-лифтинг лица и тела. Современный метод подтяжки и омоложения.
+RF-лифтинг – это воздействие высокочастотных токов на дерму и гиподерму, не затрагивая поверхностный слой кожи, не травмируя его. Путем прогрева, в подкожных тканях усиливается кровоток, п]]></description>
+                <picture>
+                    https://sun1-21.userapi.com/impg/ol0pXBSczSkNNvbsZ-JxmIyhe1WG7WboLqsJ0Q/03ShR4cpZRg.jpg?crop=0.166,0,0.668,1&amp;size=0x1000&amp;quality=95&amp;sign=0660d207b84491e022360c0f547174ee
+                </picture>
+            </offer>
+            <offer available="true" id="7526178">
+                <name>G64A</name>
+                <url>https://vk.com/uslugi-223477680?w=product-223477680_7526178</url>
+                <price_type>2</price_type>
+                <price_unit>0</price_unit>
+                <price>1000</price>
+                <currencyId>RUB</currencyId>
+                <vkCategory>2051</vkCategory>
+                <weight>1.0</weight>
+                <dimensions>20.0/20.0/20.0</dimensions>
+                <ae_stock>5</ae_stock>
+                <description>
+                    <![CDATA[Вы можете приобрести подарочный сертификат на сумму от 1000 до 5000.]]></description>
+                <picture>
+                    https://sun1-22.userapi.com/impg/Fn0T7dv70rDK0wxkZjyUNGWMkiPYZkmbGEn7Jg/0UzCs4uUbCE.jpg?crop=0.167,0,0.666,1&amp;size=0x1000&amp;quality=95&amp;sign=5bbbb12b46aaab1d921c7820db0a112f
+                </picture>
+            </offer>
+            <offer available="true" id="7526150">
+                <name>карбоновый пилинг</name>
+                <url>https://vk.com/uslugi-223477680?w=product-223477680_7526150</url>
+                <price_type>0</price_type>
+                <price_unit>0</price_unit>
+                <price>900</price>
+                <currencyId>RUB</currencyId>
+                <vkCategory>2055</vkCategory>
+                <weight>1.0</weight>
+                <dimensions>20.0/20.0/20.0</dimensions>
+                <ae_stock>5</ae_stock>
+                <description>
+                    <![CDATA[Лазерный карбоновый пилинг – эффективная аппаратная процедура, которая очищает кожу и улучшает ее состояние.]]></description>
+                <picture>
+                    https://sun1-91.userapi.com/impg/30fqt97Y7vQ4Y3fIiGLpVdqFcTcztFox9y9zPw/vqMqtCexRNQ.jpg?crop=0.219,0,0.563,1&amp;size=0x1000&amp;quality=95&amp;sign=3e5b25c212fbfea4d423f659cc388a3e
+                </picture>
+            </offer>
+            <offer available="true" id="7526128">
+                <name>Элос-эпиляция</name>
+                <url>https://vk.com/uslugi-223477680?w=product-223477680_7526128</url>
+                <price_type>2</price_type>
+                <price_unit>0</price_unit>
+                <price>200</price>
+                <currencyId>RUB</currencyId>
+                <vkCategory>2051</vkCategory>
+                <weight>1.0</weight>
+                <dimensions>20.0/20.0/20.0</dimensions>
+                <ae_stock>5</ae_stock>
+                <description><![CDATA[Современный и безопасный способ удаления волос.]]></description>
+                <picture>
+                    https://sun1-54.userapi.com/impg/Q0rrmR8OETjJDyFrs6y1hevtSM9uHq9OE6xpQQ/rQYZfGYR75Y.jpg?crop=0.1,0,0.8,1&amp;size=0x1000&amp;quality=95&amp;sign=a12dbdd898362d649bdf0e7d036a7368
+                </picture>
+            </offer>
+        </offers>
+    </shop>
+</yml_catalog>
