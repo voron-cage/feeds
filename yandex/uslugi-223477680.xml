@@ -6,7 +6,7 @@
         <categories></categories>
         <offers>
             <offer available="true" id="7526888">
-                <name>iPhone 15</name>
+                <model>iPhone 15</model>
                 <url>https://vk.com/uslugi-223477680?w=product-223477680_7526888</url>
                 <price_type>0</price_type>
                 <price_unit>0</price_unit>
@@ -23,7 +23,7 @@ RF-лифтинг – это воздействие высокочастотны
                 </picture>
             </offer>
             <offer available="true" id="7526178">
-                <name>G64A</name>
+                <model>G64A</model>
                 <url>https://vk.com/uslugi-223477680?w=product-223477680_7526178</url>
                 <price_type>2</price_type>
                 <price_unit>0</price_unit>
@@ -40,7 +40,7 @@ RF-лифтинг – это воздействие высокочастотны
                 </picture>
             </offer>
             <offer available="true" id="7526150">
-                <name>карбоновый пилинг</name>
+                <model>карбоновый пилинг</model>
                 <url>https://vk.com/uslugi-223477680?w=product-223477680_7526150</url>
                 <price_type>0</price_type>
                 <price_unit>0</price_unit>
@@ -57,7 +57,7 @@ RF-лифтинг – это воздействие высокочастотны
                 </picture>
             </offer>
             <offer available="true" id="7526128">
-                <name>Элос-эпиляция</name>
+                <model>Элос-эпиляция</model>
                 <url>https://vk.com/uslugi-223477680?w=product-223477680_7526128</url>
                 <price_type>2</price_type>
                 <price_unit>0</price_unit>
