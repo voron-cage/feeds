@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8" ?><!DOCTYPE yml_catalog SYSTEM "shops.dtd"><yml_catalog date="2024-02-08T17:06:15+05:00">
+<script/>
+<shop>
+<currencies>
+<currency rate="1" id="RUB"/>
+</currencies>
+<categories/>
+<offers>
+<offer available="true" id="11142484">
+<name>Тариф: "Решать тебе"</name>
+<url>https://vk.com/market-223383825?w=product-223383825_11142484</url>
+<price>4000</price>
+<currencyId>RUB</currencyId>
+<vkCategory>30344</vkCategory>
+<weight>1.0</weight>
+<dimensions>20.0/20.0/20.0</dimensions>
+<ae_stock>5</ae_stock>
+<description>
+<![CDATA[ Предметы на выбор: Тарелки (х10): 700р Посуда: 70р Изделия из гипса (х10): 700р Бутылки (х10): 400р Кассеты (х10): 400р Пылесос: 500р<b ]]>
+</description>
+<picture>https://sun1-94.userapi.com/impg/FuMIA1qNVR0mv41BzRttkTRlgbSoMBfZyQIYEA/T8KHtEscbbk.jpg?size=1000x0&crop=0,0.169,0.976,0.733&quality=95&sign=563437e600529ffb0633ec45457fa59b</picture>
+</offer>
+<offer available="true" id="11142478">
+<name>Тариф: "Не сломайся"</name>
+<url>https://vk.com/market-223383825?w=product-223383825_11142478</url>
+<price>9000</price>
+<currencyId>RUB</currencyId>
+<vkCategory>30344</vkCategory>
+<weight>1.0</weight>
+<dimensions>20.0/20.0/20.0</dimensions>
+<ae_stock>5</ae_stock>
+<description>
+<![CDATA[ В тариф входит: 20 предметов из гипса 40 элементов стекла 30 кассет 30 элементов посуды 6 предметов бытовой техники 10 предметов электроники 1 предмет мебели 1 секретный предмет Количество человек: 1-4 человек(а)< ]]>
+</description>
+<picture>https://sun1-99.userapi.com/impg/Z76USvSrFzUs4gAJEQ1BTSS-ayfB-_PxROzXMw/_qTj3fR76D0.jpg?size=1000x0&crop=0.012,0.247,0.976,0.733&quality=95&sign=6556dea0baf2fab3091ae17dcb784a8f</picture>
+</offer>
+<offer available="true" id="11142466">
+<name>Тариф: "Только спокойствие"</name>
+<url>https://vk.com/market-223383825?w=product-223383825_11142466</url>
+<price>7000</price>
+<currencyId>RUB</currencyId>
+<vkCategory>30344</vkCategory>
+<weight>1.0</weight>
+<dimensions>20.0/20.0/20.0</dimensions>
+<ae_stock>5</ae_stock>
+<description>
+<![CDATA[ В тариф входит: 15 предметов из гипса 30 элементов стекла 20 кассет 20 элементов посуды 3 предмета бытовой техники 10 предметов электроники 1 предмет мебели 1 секретный предмет Количество человек: 1-4 человек(а)< ]]>
+</description>
+<picture>https://sun1-27.userapi.com/impg/PEFzOnwR_c7eoREASJAk-7bDfydUO37O2x_lJQ/jfrrCV_RCQM.jpg?size=1000x0&crop=0.012,0.133,0.976,0.733&quality=95&sign=fd0f0bf2b07cb940a4dce7346ba8d53d</picture>
+</offer>
+<offer available="true" id="11142462">
+<name>Тариф: "Час будет жарким"</name>
+<url>https://vk.com/market-223383825?w=product-223383825_11142462</url>
+<price>5000</price>
+<currencyId>RUB</currencyId>
+<vkCategory>30344</vkCategory>
+<weight>1.0</weight>
+<dimensions>20.0/20.0/20.0</dimensions>
+<ae_stock>5</ae_stock>
+<description>
+<![CDATA[ В тариф входит: 10 предметов из гипса 20 элементов стекла 15 кассет 20 элементов посуды 3 предмета бытовой техники 5 предметов электроники Количество человек: 1-4 человек(а) Время: 60 минут ]]>
+</description>
+<picture>https://sun1-13.userapi.com/impg/2tIKaKZsuZdIeHB2zQh_zmqVmzU5Z7jvq3w2GQ/0__tIKZbjvs.jpg?size=1000x0&crop=0.012,0.133,0.976,0.733&quality=95&sign=c8c1d98eca70cca09777aa2415114dcb</picture>
+</offer>
+<offer available="true" id="11142460">
+<name>Тариф: "неПросто посмотреть"</name>
+<url>https://vk.com/market-223383825?w=product-223383825_11142460</url>
+<price>3000</price>
+<currencyId>RUB</currencyId>
+<vkCategory>30344</vkCategory>
+<weight>1.0</weight>
+<dimensions>20.0/20.0/20.0</dimensions>
+<ae_stock>5</ae_stock>
+<description>
+<![CDATA[ В тарифе входит: 15 элементов стекла 10 кассет 10 элементов посуды 5 предметов электроники Количество человек: 1-2 человек(а) Время: 45 минут ]]>
+</description>
+<picture>https://sun1-94.userapi.com/impg/_i_gCeYHYVDdoVtsP3ZCLeVR6zYV5wHO52jErQ/tovChkVuPdc.jpg?size=1000x0&crop=0.012,0.133,0.976,0.733&quality=95&sign=f5423e07375975a405ffde89034d823c</picture>
+</offer>
+</offers>
+</shop>
+</yml_catalog>
