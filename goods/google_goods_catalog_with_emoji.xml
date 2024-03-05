@@ -1,0 +1,121 @@
+<?xml version="1.0"?>
+<feed xmlns="HTMLAcademy" xmlns:g="HTMLAcademy">
+    <entry>
+        <g:id>frontender</g:id>
+        <g:title>Станьте фронтенд-разработчиком</g:title>
+        <g:description>Курсы по разработке со скидкой</g:description>
+        <g:link>https://htmlacademy.ru/profession/frontender</g:link>
+        <g:image_link>https://ic.wampi.ru/2023/04/19/1.2.jpg</g:image_link>
+        <g:condition>used</g:condition>
+	  <g:price>9380 RUR</g:price>
+        <g:shipping>
+            <g:country>Russia</g:country>
+            <g:service>Standard</g:service>
+            <g:price>9380 RUR</g:price>
+       	<g:old_price>9380 RUR</g:old_price>
+        </g:shipping>
+        <g:brand>HTML Academy</g:brand>
+        <g:name>курс Фронтенд-разработчик</g:name>
+    </entry>
+	<entry>
+        <g:id>react-js</g:id>
+        <g:title>JS-разработчик с нуля</g:title>
+        <g:description>Обучение с личным наставником</g:description>
+        <g:link>https://im.wampi.ru/2023/04/19/1.3.jpg</g:link>
+        <g:image_link>https://im.wampi.ru/2023/02/14/2.1.jpg</g:image_link>
+        <g:condition>used</g:condition>
+        <g:name>курс JS-разработчик</g:name>
+        <g:price>13830 RUR</g:price>
+        <g:shipping>
+            <g:country>Russia</g:country>
+            <g:service>Standard</g:service>
+            <g:old_price>14940 RUR</g:old_price>
+            <g:price>13830 RUR</g:price>
+        </g:shipping>
+        <g:brand>HTML Academy</g:brand>
+	</entry>
+    <entry>
+        <g:id>fullstack</g:id>
+        <g:title>Обучение на фулстек-разработчика для новичков</g:title>
+        <g:description>Обучение со стажировкой</g:description>
+        <g:link>https://htmlacademy.ru/profession/fullstack</g:link>
+        <g:image_link>https://ie.wampi.ru/2023/04/19/1.4.jpg</g:image_link>
+        <g:condition>used</g:condition>
+        <g:name>курс Фулстек-разработчик</g:name>
+        <g:price>11050 RUR</g:price>
+        <g:shipping>
+            <g:country>Russia</g:country>
+            <g:service>Standard</g:service>
+            <g:old_price>12160 RUR</g:old_price>
+            <g:price>11050 RUR</g:price>
+        </g:shipping>
+        <g:brand>HTML Academy</g:brand>
+    </entry>
+    <entry>
+        <g:id>htmlcss</g:id>
+        <g:title>Изучите верстку за 9 недель</g:title>
+        <g:description>Курс HTML и CSS с наставником</g:description>
+        <g:link>https://htmlacademy.ru/intensive/htmlcss</g:link>
+        <g:image_link>https://ie.wampi.ru/2023/04/19/1.5.jpg</g:image_link>
+        <g:condition>used</g:condition>
+        <g:name>курс HTML и CSS</g:name>
+        <g:price>3650 RUR</g:price>
+        <g:shipping>
+            <g:country>Russia</g:country>
+            <g:service>Standard</g:service>
+            <g:price>3650 RUR</g:price>
+            <g:old_price>3810 RUR</g:old_price>
+        </g:shipping>
+        <g:brand>HTML Academy</g:brand>
+    </entry>
+    <entry>
+        <g:id>adaptive</g:id>
+        <g:title>Курсы по разработке</g:title>
+        <g:description>Курс по верстке сайтов с наставником</g:description>
+        <g:link>https://htmlacademy.ru/intensive/adaptive</g:link>
+        <g:image_link>https://ic.wampi.ru/2023/04/19/1.6.jpg</g:image_link>
+        <g:condition>used</g:condition>
+        <g:name>курс по адаптивной верстке сайтов</g:name>
+        <g:price>4150 RUR</g:price>
+        <g:shipping>
+            <g:country>Russia</g:country>
+            <g:service>Standard</g:service>
+            <g:old_price>4980 RUR</g:old_price>
+            <g:price>4150 RUR</g:price>
+        </g:shipping>
+        <g:brand>HTML Academy</g:brand>
+    </entry>
+    <entry>
+        <g:id>javascript</g:id>
+        <g:title>Научитесь Javascript-разработке за 9 недель</g:title>
+        <g:description>Станьте верстальщиком с оплачиваемой стажировкой</g:description>
+        <g:link>https://htmlacademy.ru/intensive/javascript</g:link>
+        <g:image_link>https://im.wampi.ru/2023/04/19/1.7.jpg</g:image_link>
+        <g:condition>used</g:condition>
+        <g:name>Обучение на JavaScript со скидкой</g:name>
+        <g:price>4650 RUR</g:price>
+        <g:shipping>
+            <g:country>Russia</g:country>
+            <g:service>Standard</g:service>
+            <g:price>4650 RUR</g:price>
+            <g:old_price>5150 RUR</g:old_price>
+        </g:shipping>
+        <g:brand>HTML Academy</g:brand>
+    </entry>
+	<entry>
+        <g:id>ecmascript</g:id>
+        <g:title>JavaScript. Архитектура клиентских приложений</g:title>
+        <g:description>Станьте младшим верстальщиком с зп от 70 000 р</g:description>
+        <g:link>https://htmlacademy.ru/intensive/ecmascript</g:link>
+        <g:image_link>https://ie.wampi.ru/2023/04/19/1.8.jpg</g:image_link>
+        <g:condition>used</g:condition>
+        <g:name>Обучение на JavaScript со скидкой</g:name>
+        <g:price>4980 RUR</g:price>
+        <g:shipping>
+            <g:country>Russia</g:country>
+            <g:service>Standard</g:service>
+            <g:price>4980 RUR</g:price>
+        </g:shipping>
+        <g:brand>HTML Academy</g:brand>
+    </entry>
+</feed>
