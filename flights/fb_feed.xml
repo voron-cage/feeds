@@ -11,12 +11,8 @@
         <destination_city>SAN FRANCISCO</destination_city>
         <url>https://ticket.pobeda.aero/websky/</url>
         <image>
-            <url>https://github.com/voron-cage/feeds/raw/master/flights/tu-334.jpeg</url>
+            <url>https://www.mosigra.ru/image/cache/data/Photo/1_600x600-1024x1024-wm-1024x1024.jpg</url>
             <tag>city</tag>
-        </image>
-        <image>
-            <url>https://www.zifew.com/products/§¹§Ñ§Û-§å§Ý§å§ß</url>
-            <tag>food</tag>
         </image>
         <price>100.00 USD</price>
         <description>Best Flight</description>
