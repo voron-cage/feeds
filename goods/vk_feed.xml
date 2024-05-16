@@ -1,107 +1,11 @@
-<yml_catalog date="2024-05-14 23:47">
-<script/>
+<yml_catalog date="2024-05-16 17:00">
 <shop>
-<currencies>
-<currency rate="1" id="RUB"/>
-</currencies>
-<categories/>
-<offers>
-<offer available="true" id="9022491">
-<name>Коррекция наращенных ногтей</name>
-<url>https://vk.com/uslugi-225571558?w=product-225571558_9022491</url>
-<price_type>0</price_type>
-<price_unit>0</price_unit>
-<price>2800</price>
-<currencyId>RUB</currencyId>
-<vkCategory>2058</vkCategory>
-<weight>1.0</weight>
-<dimensions>20.0/20.0/20.0</dimensions>
-<ae_stock>5</ae_stock>
-<description>
-<![CDATA[ Бережное снятие материала гель/полигель, маникюр, коррекция формы с помощью опила и выравнивания архитектуры гелем, однотонное покрытие. ]]>
-</description>
-<picture>https://www.mosigra.ru/image/cache/data/Photo/1_600x600-1024x1024-wm-1024x1024.jpg</picture>
-</offer>
-<offer available="true" id="9022488">
-<name>Педикюр SMART</name>
-<url>https://vk.com/uslugi-225571558?w=product-225571558_9022488</url>
-<price_type>0</price_type>
-<price_unit>0</price_unit>
-<price>2000</price>
-<currencyId>RUB</currencyId>
-<vkCategory>2058</vkCategory>
-<weight>1.0</weight>
-<dimensions>20.0/20.0/20.0</dimensions>
-<ae_stock>5</ae_stock>
-<description>
-<![CDATA[ Полная обработка стопы Smart дисками и обработка пальчиков без покрытия. Покрытие гель-лак +500₽ Снятие материала +200₽ ]]>
-</description>
-<picture>https://sun1-94.userapi.com/impg/cW2UKRLnrwcANRnixj_JDSK-qYzVnT8Y_TNydQ/PaHrNi3FNHM.jpg?size=0x1000&crop=0.008,0.008,0.984,0.984&quality=95&sign=15bbafa968aa6cc1e54cddb7280e0a7d</picture>
-</offer>
-<offer available="true" id="9022485">
-<name>Маникюр с покрытием гель-лак</name>
-<url>https://vk.com/uslugi-225571558?w=product-225571558_9022485</url>
-<price_type>0</price_type>
-<price_unit>0</price_unit>
-<price>2000</price>
-<currencyId>RUB</currencyId>
-<vkCategory>2058</vkCategory>
-<weight>1.0</weight>
-<dimensions>20.0/20.0/20.0</dimensions>
-<ae_stock>5</ae_stock>
-<description>
-<![CDATA[ Бережное снятие гель-лакового покрытия, опил формы, маникюр, выравнивание архитектуры, однотонное покрытие гель-лак. ]]>
-</description>
-<picture>https://sun1-96.userapi.com/impg/KGrOcvtHIUFS0VWDwhcA5bbBRiGNcP2Mzxb4CQ/XYrWv4GeOwM.jpg?size=0x1000&crop=0.008,0.008,0.984,0.984&quality=95&sign=ce0e4e4e364acd4942112616d7e7fc9a</picture>
-</offer>
-<offer available="true" id="9022481">
-<name>Маникюр с покрытием и дизайном 4-х ногтей</name>
-<url>https://vk.com/uslugi-225571558?w=product-225571558_9022481</url>
-<price_type>0</price_type>
-<price_unit>0</price_unit>
-<price>2200</price>
-<currencyId>RUB</currencyId>
-<vkCategory>2058</vkCategory>
-<weight>1.0</weight>
-<dimensions>20.0/20.0/20.0</dimensions>
-<ae_stock>5</ae_stock>
-<description>
-<![CDATA[ Бережное снятие гель-лакового покрытия, опил формы, маникюр, выравнивание архитектуры, покрытие гель-лак + дизайн на 4 ногтя. ]]>
-</description>
-<picture>https://sun1-98.userapi.com/impg/sCho8qGZhIuYe6owSCVZ-aIu0s3Dwvc2vq4tHw/jnJerJhhQwM.jpg?size=0x1000&crop=0.008,0.008,0.984,0.984&quality=95&sign=c9fe00965781e98c1c5902fa555e83b0</picture>
-</offer>
-<offer available="true" id="9022469">
-<name>Наращивание ногтей</name>
-<url>https://vk.com/uslugi-225571558?w=product-225571558_9022469</url>
-<price_type>0</price_type>
-<price_unit>0</price_unit>
-<price>3800</price>
-<currencyId>RUB</currencyId>
-<vkCategory>2058</vkCategory>
-<weight>1.0</weight>
-<dimensions>20.0/20.0/20.0</dimensions>
-<ae_stock>5</ae_stock>
-<description>
-<![CDATA[ Бережное снятие предыдущего материала, наращивание на натуральные ногти с помощью геля/полигеля, маникюр, моделирование формы с помощью опила, однотонное покрытие. ]]>
-</description>
-<picture>https://sun1-57.userapi.com/impg/BGlWOn9X0uRf_4havGIUcOYOaEkkFDRbJQ2MLw/Kcgf69WnQx4.jpg?size=0x1000&crop=0.008,0.008,0.984,0.984&quality=95&sign=8e1f32fae338915df171a80f34d995e1</picture>
-</offer>
-<offer available="true" id="9022460">
-<name>Маникюр с покрытием и укреплением</name>
-<url>https://vk.com/uslugi-225571558?w=product-225571558_9022460</url>
-<price_type>0</price_type>
-<price_unit>0</price_unit>
-<price>2300</price>
-<currencyId>RUB</currencyId>
-<vkCategory>2058</vkCategory>
-<weight>1.0</weight>
-<dimensions>20.0/20.0/20.0</dimensions>
-<ae_stock>5</ae_stock>
-<description>
-<![CDATA[ Подходит для длинных или слабых ногтей. Бережное снятие предыдущего покрытия, укрепление гелем/акриловой пудрой, опил формы, выравнивание архитектуры, маникюр, однотонное покрытие гель-лак. ]]>
-</description>
-<picture>https://sun1-95.userapi.com/impg/2JmUMd30ytB7DK-pqm0Wx1-W9-5qvNsDWnPsyg/fSjFSz6QljI.jpg?size=0x1000&crop=0.008,0.008,0.984,0.984&quality=95&sign=9ab6afe6f3d45d14ef0ed877291a5c37</picture>
-</offer>
-</offers>
+<currencies><currency rate="1" id="RUB"></currency></currencies>
+<categories><category id="7">Продукция MIUS</category></categories>
+<offers><offer available="true" id="8347146"><name>Террариумная пена MIUS</name><url>https://vk.com/market-221518341?w=product-221518341_8347146</url><price>1500</price><currencyId>RUB</currencyId><vkCategory>41664</vkCategory><weight>1.0</weight><dimensions>20.0/20.0/20.0</dimensions><ae_stock>5</ae_stock><description><![CDATA[Террариумная пена MIUS используется для создания декораций и задних стенок во флорариумах и террариумах.
+После застывания безопасна для животных и растений, не токсична при нагревании.
+Перед применением необходимо встряхивать баллон не менее 1 минуты]]></description><picture>https://www.mosigra.ru/image/cache/data/Photo/1_600x600-1024x1024-wm-1024x1024.jpg</picture><categoryId>7</categoryId></offer><offer available="true" id="8149761"><name>Сверчковая пыль</name><url>https://vk.com/market-221518341?w=product-221518341_8149761</url><price>10</price><currencyId>RUB</currencyId><vkCategory>30863</vkCategory><weight>1.0</weight><dimensions>20.0/20.0/20.0</dimensions><ae_stock>5</ae_stock><description><![CDATA[Цена указана за количество в 10шт.
+Соответственно 1шт = 1р.
+Сверчковая пыль — универсальный легкоусвояемый, идеальный кормовой объект для выкармливания детенышей хамелеонов, фельзум, мелких пауков-птицеедов, скорпионов, мелких ящериц и земноводных.<b]]></description><picture>https://sun1-27.userapi.com/impg/-2eJzP2wofhjQ4AjQ0TLscIctCjvdQiv_44ugQ/cCx2fA0DqKM.jpg?crop=0,0.219,1,0.563&amp;size=1000x0&amp;quality=95&amp;sign=02ad73632922f3f7c518904bc17e7ff6</picture></offer><offer available="true" id="7985894"><name>Террариум средний 60х45х60 см</name><url>https://vk.com/market-221518341?w=product-221518341_7985894</url><price>13500</price><old_price>16690</old_price><currencyId>RUB</currencyId><vkCategory>20000</vkCategory><weight>1.0</weight><dimensions>20.0/20.0/20.0</dimensions><ae_stock>5</ae_stock><description><![CDATA[Важным этапом при содержании любой рептилии или другого экзотического животного является выбор правильного террариума. Он должен быть безопасным, комфортным, свободным, иметь проточную вентиляцию для правильной подачи воздуха и высокий борт для возможности]]></description><picture>https://sun1-18.userapi.com/impg/mURqoULWfJ5Bgu6BJj-emBaHjrfI_Xk1drIIVA/WJ1S2BRu3L0.jpg?size=0x1000&amp;crop=0.008,0.008,0.984,0.984&amp;quality=95&amp;sign=9717a65b874f6021ce268f2cac43fc18</picture></offer><offer available="true" id="7985859"><name>Террариум малый 30х30х45 см</name><url>https://vk.com/market-221518341?w=product-221518341_7985859</url><price>7500</price><old_price>8890</old_price><currencyId>RUB</currencyId><vkCategory>20000</vkCategory><weight>1.0</weight><dimensions>20.0/20.0/20.0</dimensions><ae_stock>5</ae_stock><description><![CDATA[Важным этапом при содержании любого экзотического домашнего питомца является выбор правильного террариума. Он должен быть безопасным, комфортным, свободным, иметь проточную вентиляцию для правильной подачи воздуха и высокий борт для возможности насыпать гр]]></description><picture>https://sun1-55.userapi.com/impg/4N--negJ4n_WIwJH-WYvpath6K4SWlcM5At3bg/cr-HqR_xiUE.jpg?size=0x1000&amp;crop=0.008,0.008,0.984,0.984&amp;quality=95&amp;sign=10874ba9051f697ccab654ffb440a4a7</picture></offer><offer available="true" id="7965220"><name>Террариум большой 90х45х45</name><url>https://vk.com/market-221518341?w=product-221518341_7965220</url><price>19500</price><old_price>24890</old_price><currencyId>RUB</currencyId><vkCategory>20000</vkCategory><weight>1.0</weight><dimensions>20.0/20.0/20.0</dimensions><ae_stock>5</ae_stock><description><![CDATA[Важным этапом при содержании любой рептилии является выбор правильного террариума. Он должен быть безопасным, комфортным, свободным, иметь проточную вентиляцию для правильной подачи воздуха и высокий борт для возможности насыпать грунт или добавить воду. <]]></description><picture>https://sun1-24.userapi.com/impg/zWN-HCwGWBswJmVW1SLB3XMPytFjVnHe0_flfw/4vbrkqxSMs8.jpg?size=0x1000&amp;crop=0.008,0.008,0.984,0.984&amp;quality=95&amp;sign=a3ae5f916b33e08bce7c6b92a529f8fe</picture></offer></offers>
 </shop>
 </yml_catalog>
